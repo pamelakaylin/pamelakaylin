@@ -31,9 +31,13 @@
   <a href="https://www.python.org/" target="_blank"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<p align="right">
+
 ### You can also find me at 👇🏼
 
 ### [Portfolio](www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
+
+</p>
 
 <!--
 **pamelakaylin/pamelakaylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
