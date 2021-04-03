@@ -1,6 +1,6 @@
 # Hey I'm Pamela, a full stack developer 🤘🏼
 
- <Lottie loop={true} path="animation.json" />
+ <Lottie loop={true} path="./animation.json" />
 
 ### Me in a nutshell
 
