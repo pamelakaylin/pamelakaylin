@@ -1,5 +1,9 @@
 # Hey I'm Pamela, a full stack developer 🤘🏼
 
+### You can also find me at 👇🏼
+- [Portfolio](www.pmela.io)
+- [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
+
 ### Me in a nutshell
 
 - Software engineer in the JS ecosystem 🚀
