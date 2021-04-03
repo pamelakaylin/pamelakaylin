@@ -10,6 +10,7 @@
 - Love to develop for mobile 📲
 - Based remotely, bit of a globetrotter 🌎
 - Business background in Entrepreneurship & Marketing 💡
+- Outside of coding, I love a sunset surf session and good laughs with friends 🌴
 
 ### What I'm up to
 
