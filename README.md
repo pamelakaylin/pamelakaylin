@@ -23,8 +23,8 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank"> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/> </a> 
    <a href="https://graphql.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/25126281/102015838-d4678280-3d55-11eb-81d2-cd2a79ea3a82.png" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="sequelize-original" width="40" height="40"/> </a>  
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=128&color=ffffff" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=ffffff" alt="sequelize-original" width="40" height="40"/> </a>  
   <a href="https://sass-lang.com/" target="_blank"> <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="sass" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a> 
 </p>
