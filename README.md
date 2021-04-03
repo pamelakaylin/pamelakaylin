@@ -1,3 +1,5 @@
+<link href="profile.css" rel="stylesheet"></link>
+
 # Hey I'm Pamela, a full stack developer 🤘🏼
 
 <img href="https://github.com/pamelakaylin" src="./assets/animation.gif">
