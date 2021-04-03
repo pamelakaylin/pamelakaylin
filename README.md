@@ -2,7 +2,7 @@
 
 # Hey I'm Pamela, a full stack developer 🤘🏼
 
-<img align="right" href="https://github.com/pamelakaylin" src="./assets/animation.gif" height=200>
+<img align="right" href="https://github.com/pamelakaylin" src="./assets/animation.gif" height=400>
 
 ### Me in a nutshell
 
@@ -33,7 +33,7 @@
 
 ### You can also find me at 👇🏼
 
-[Portfolio](www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
+### [Portfolio](www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
 
 <!--
 **pamelakaylin/pamelakaylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
