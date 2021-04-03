@@ -1,19 +1,19 @@
 # Hey I'm Pamela, a full stack developer 🤘🏼
 
+<img href="https://github.com/pamelakaylin" src="./assets/animation.gif">
+
 ### Me in a nutshell
 
-- Software engineer in the JS ecosystem 🚀
+- Software engineer in the JS ecosystem 💫
 - Love to develop for mobile 📲
 - Based remotely, bit of a globetrotter 🌎
 - Business background in Entrepreneurship & Marketing 💡
-
-###
 
 ### What I'm up to
 
 - Just deployed [Librai](https://github.com/geroalexander/librai), a PWA for book lovers running on ML and AI
 - Currently working on deploying my mobile app [Bucketbee](https://github.com/pamelakaylin/Bucketbee_Client) for global citizens
-- Planning and wireframing a new personal finance app - Stay tuned!😉
+- Planning and wireframing a new personal finance app - Stay tuned! 😉
 
 ### Tools I've been using lately
 
