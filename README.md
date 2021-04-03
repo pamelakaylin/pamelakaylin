@@ -11,6 +11,7 @@
 - Based remotely, bit of a globetrotter 🌎
 - Business background in Entrepreneurship & Marketing 💡
 - Outside of coding I love sunset surfs and good laughs with friends 🌴
+- [Portfolio](https://www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamelakaylin/)
 
 ### What I'm up to
 
@@ -31,10 +32,6 @@
   <a href="https://sass-lang.com/" target="_blank"> <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="sass" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a> 
 </p>
-
-### You can also find me at 👇🏼
-
-#### [Portfolio](https://www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamelakaylin/)
 
 <!--
 **pamelakaylin/pamelakaylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
