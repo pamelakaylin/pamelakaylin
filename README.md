@@ -10,6 +10,7 @@
 - Love to develop for mobile 📲
 - Based remotely, bit of a globetrotter 🌎
 - Business background in Entrepreneurship & Marketing 💡
+- Outside of coding I love sunset surfs and good laughs with friends 🌴
 
 ### What I'm up to
 
@@ -35,7 +36,7 @@
 
 ### You can also find me at 👇🏼
 
-### [Portfolio](www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
+### [Portfolio](https://www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
 
 </p>
 
