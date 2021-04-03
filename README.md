@@ -1,13 +1,22 @@
-### Hey I'm Pamela, a full-stack developer 🤘🏼
+## Hey I'm Pamela, a full stack developer 🤘🏼
 
 #### Me in a nutshell
+- Software engineer in the JS ecosystem 🚀
+- Love to develop for mobile 📲
+- Based remotely, bit of a globetrotter 🌎
+- Business background in Entrepreneurship & Marketing 💡
 
 #### What I'm up to
+- Currently working on deploying my mobile app Bucketbee for global citizens 
+- Planning and wireframing a new personal finance app - Stay tuned!😉
 
-
-
-
-
+### Tools I've been using lately
+- React Native
+- React
+- Angular
+- GraphQL
+- Mongooose
+- Sequelize
 
 
 <!--
