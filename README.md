@@ -7,7 +7,7 @@
 ### Me in a nutshell
 
 - Software engineer in the JS ecosystem 💫
-- Love to develop for mobile 📲
+- Love to develop for mobile (first) 📲
 - Based remotely, bit of a globetrotter 🌎
 - Business background in Entrepreneurship & Marketing 💡
 - Outside of coding I love sunset surfs and good laughs with friends 🌴
