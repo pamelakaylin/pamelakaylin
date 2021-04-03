@@ -1,4 +1,14 @@
-### Hi there 👋  I'm Pamela, a full-stack developer
+### Hey I'm Pamela, a full-stack developer 🤘🏼
+
+#### Me in a nutshell
+
+#### What I'm up to
+
+
+
+
+
+
 
 <!--
 **pamelakaylin/pamelakaylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
