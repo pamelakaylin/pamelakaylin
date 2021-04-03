@@ -18,13 +18,17 @@
 - Currently working on deploying my mobile app [Bucketbee](https://github.com/pamelakaylin/Bucketbee_Client) for global citizens
 - Planning and wireframing a new personal finance app - Stay tuned! 😉
 
-<div align="right" style="width: 100px">
+<p align="left">
+
+<div>
 
 ### You can also find me at 👇🏼
 
 ### [Portfolio](https://www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
 
 </div>
+
+<div>
 
 ### Tools I've been using lately
 
@@ -40,6 +44,7 @@
   <a href="https://www.python.org/" target="_blank"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<div/>
 <!--
 **pamelakaylin/pamelakaylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
