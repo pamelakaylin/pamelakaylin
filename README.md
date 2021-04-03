@@ -30,8 +30,8 @@
 </p>
 
 ### You can also find me at 👇🏼
-[Portfolio](www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
 
+[Portfolio](www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
 
 <!--
 **pamelakaylin/pamelakaylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
