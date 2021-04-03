@@ -1,6 +1,6 @@
 <link href="profile.css" rel="stylesheet"></link>
 
-# Hi I'm Pamela, a full stack developer 🤘🏼
+# Hey I'm Pamela, a full stack developer 🤘🏼
 
 <img align="right" href="https://github.com/pamelakaylin" src="./assets/animation.gif" height=320>
 
