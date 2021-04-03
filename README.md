@@ -2,7 +2,7 @@
 
 # Hey I'm Pamela, a full stack developer 🤘🏼
 
-<img href="https://github.com/pamelakaylin" src="./assets/animation.gif">
+<img class="animation" href="https://github.com/pamelakaylin" src="./assets/animation.gif">
 
 ### Me in a nutshell
 
