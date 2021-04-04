@@ -15,7 +15,7 @@
 
 ### What I'm up to
 
-- Just deployed [Librai](https://github.com/geroalexander/librai), a PWA for book lovers running on ML and AI
+- Just deployed [Librai](https://librai.netlify.app), a PWA for book lovers running on ML and AI
 - Currently working on deploying my mobile app [Bucketbee](https://github.com/pamelakaylin/Bucketbee_Client) for global citizens
 - Planning and wireframing a new personal finance app - Stay tuned! 😉
 
