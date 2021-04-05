@@ -27,6 +27,8 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=flat-square">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   <img alt="Node" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
   <img alt="Koa" src="https://img.shields.io/badge/-Koa-33333d?style=flat-square&logo=kaggle&logoColor=white" />
