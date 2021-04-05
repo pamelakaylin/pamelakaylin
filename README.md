@@ -15,8 +15,8 @@
 
 ### What I'm up to
 
-- Just deployed [Librai](https://librai.netlify.app), a PWA for book lovers running on ML and AI
-- Currently working on deploying my mobile app [Bucketbee](https://github.com/pamelakaylin/Bucketbee_Client) for global citizens
+- Deploying my mobile app [Bucketbee](https://github.com/pamelakaylin/Bucketbee_Client) for global citizens
+- Learning 
 - Planning and wireframing a new personal finance app - Stay tuned! 😉
 
 ### Tools I've been using lately
@@ -27,6 +27,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=flat-square">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
   <img alt="Koa" src="https://img.shields.io/badge/-Koa-33333d?style=flat-square&logo=kaggle&logoColor=white" />
