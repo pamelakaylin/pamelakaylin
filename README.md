@@ -10,7 +10,7 @@
 - Love to develop for mobile (first) 📲
 - Based remotely, bit of a globetrotter 🌎
 - Business background in Entrepreneurship & Marketing 💡
-- Outside of coding I love sunset surfs and good laughs with friends 🌴
+- Outside of coding I like sunset surfs and good laughs with friends 🌴
 - Want to know more? Check out my [Portfolio](https://www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamelakaylin/)
 
 ### What I'm up to
