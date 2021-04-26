@@ -17,7 +17,7 @@
 
 - Deploying my mobile app [Bucketbee](https://github.com/pamelakaylin/Bucketbee_Client) for global citizens
 - Brushing up on Python 
-- Planning and wireframing a new personal finance app - Stay tuned! 😉
+- Planning and wireframing a new personal finance app (Vue + Django) - Stay tuned! 😉
 
 ### The arsenal
 
