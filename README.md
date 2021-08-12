@@ -15,7 +15,7 @@
 
 ### What I'm up to
 
-- Deploying my mobile app [Bucketbee](https://github.com/pamelakaylin/Bucketbee_Client) for global citizens
+- Working remotely as a Software Engineer for Shogun 
 - Brushing up on Python!  
 - Planning and wireframing a new personal finance app (Vue + Django) - Stay tuned! 😉
 
