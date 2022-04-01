@@ -15,7 +15,7 @@
 
 ### What I'm up to
 
-- Working remotely as a Software Engineer for Shogun 
+- Working remotely as a Software Engineer for [Shogun](https://getshogun.com/) 
 - Brushing up on Python!  
 - Planning and wireframing a new personal finance app (Vue + Django) - Stay tuned! 😉
 
