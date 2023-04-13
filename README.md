@@ -15,7 +15,7 @@
 
 ### What I'm up to
 
-- Working remotely as a Software Engineer for [Shogun](https://getshogun.com/) 
+- CTO/Cofounder of [Diddo](https://shopdiddo.com/)
 - Building out new projects at various startups 🚀
 
 ### The arsenal
