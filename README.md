@@ -1,6 +1,6 @@
 <link href="profile.css" rel="stylesheet"></link>
 
-# Hey I'm Pamela, a full stack engineer 🤘🏼
+# hi
 
 <img align="right" href="https://github.com/pamelakaylin" src="./assets/animation.gif" height=400>
 
