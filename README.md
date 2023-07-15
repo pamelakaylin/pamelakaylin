@@ -1,24 +1,21 @@
 <link href="profile.css" rel="stylesheet"></link>
 
-# hi
+# hey
 
 <img align="right" href="https://github.com/pamelakaylin" src="./assets/animation.gif" height=400>
 
-### Me in a nutshell
+### me in a nutshell
 
-- Software engineer in the JS ecosystem 💫
-- Love to develop for mobile (first) 📲
-- Based remotely, bit of a globetrotter 🌎
-- Business background in Entrepreneurship & Marketing 💡
-- Outside of coding I like surfing and learning new languages (both human and computer) 🌴
-- Want to know more? Check out my [Portfolio](https://www.pmela.io) / [LinkedIn](https://www.linkedin.com/in/pamelakaylin/)
+- based in barcelona, bit of a globetrotter
+- business background in entrepreneurship & mktg
+- outside of coding i like to surf and learn new languages (both human and computer)
+- want to know more? Check out my [portfolio](https://www.pmela.io) / [linkedin](https://www.linkedin.com/in/pamelakaylin/)
 
-### What I'm up to
+### what i'm up to
 
-- CTO/Cofounder of [Diddo](https://shopdiddo.com/)
-- Building out new projects at various startups 🚀
+- cto/cofounder of [diddo](https://shopdiddo.com/)
 
-### The arsenal
+### the arsenal
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
