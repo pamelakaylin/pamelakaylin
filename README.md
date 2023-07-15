@@ -1,6 +1,6 @@
 <link href="profile.css" rel="stylesheet"></link>
 
-# hey
+# hihi
 
 <img align="right" href="https://github.com/pamelakaylin" src="./assets/animation.gif" height=400>
 
@@ -9,7 +9,7 @@
 - based in barcelona, bit of a globetrotter
 - business background in entrepreneurship & mktg
 - outside of coding i like to surf and learn new languages (both human and computer)
-- want to know more? Check out my [portfolio](https://www.pmela.io) / [linkedin](https://www.linkedin.com/in/pamelakaylin/)
+- want to know more? check out my [portfolio](https://www.pmela.io) / [linkedin](https://www.linkedin.com/in/pamelakaylin/)
 
 ### what i'm up to
 
