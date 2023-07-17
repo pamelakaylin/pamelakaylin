@@ -1,6 +1,6 @@
 <link href="profile.css" rel="stylesheet"></link>
 
-# hihi
+# hi
 
 <img align="right" href="https://github.com/pamelakaylin" src="./assets/animation.gif" height=400>
 
