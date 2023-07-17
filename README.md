@@ -2,7 +2,7 @@
 
 # hiii
 
-<img align="right" href="https://github.com/pamelakaylin" src="./assets/animation.gif" height=300>
+<img align="right" href="https://github.com/pamelakaylin" src="./assets/animation.gif" height=280>
 
 ### me in a nutshell
 
