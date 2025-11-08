@@ -6,7 +6,7 @@
 
 ### me in a nutshell
 
-- based in barcelona, bit of a globetrotter
+- based in london, bit of a globetrotter
 - business background in entrepreneurship & mktg
 - outside of coding i like to surf and learn new languages (both human and computer)
 - want to know more? check out my [portfolio](https://www.pmela.io) / [linkedin](https://www.linkedin.com/in/pamelakaylin/)
